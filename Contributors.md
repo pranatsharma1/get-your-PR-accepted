@@ -1,6 +1,7 @@
 # ⭐ Contributors ⭐
 
 - [Samarjeet Banik](https://github.com/SamarjeetBanik)
+- [Dibyajit Mohanty](https://github.com/Dibyajit-Mohanty)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
 - [Sudeep Gangwar](https://github.com/rex2828)
 - [Narayan Soni](https://github.com/narayan954)
