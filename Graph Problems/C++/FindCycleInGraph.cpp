@@ -4,37 +4,41 @@
 using namespace std;
 
 int c;
-
+//function to check if cycle is present in thr graph, return true if cycle is found else gives out false
 bool hasCycle(int **adj, bool *visited, int n, int startVertex)
 {
 	visited[startVertex] =  true;
-	c++;
+	c++;//used to find the complexity
 
-
+	//loop to traverse the graph
 	for(int i = 0 ; i < n ; i++, c++)
 		if(adj[startVertex][i] == 1)
 		{
 			c++;
+			/*checks for the visited array, which has the indices of all the vertices traversed before, returns true if cycle is found else checks again
+			 using recursion*/
 			if(visited[i])
 				return true;
 			else
-				return hasCycle(adj, visited, n, i);
-			c++;
+				return hasCycle(adj, visited, n, i);//recursion, will run(check) again
+			c++;//to find complexity
 		}
-		c++;
-		return false;
+		c++;//to find complexity
+		return false;//returns false if cycle isnt found
 		
 		
 }
 
 int main()
-{
+{	
+	// Driver Code
+	// input vertices and edges of graph
 	int v, e;
 	cin >> v >> e;
 	cout << endl;
 
 	c = 0;
-	c++;
+	c++;//to find complexity
 
 	int **adj = new int*[v];
 
