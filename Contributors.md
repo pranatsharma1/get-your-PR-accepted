@@ -18,4 +18,5 @@
 - [Tushar](https://github.com/twoshar)
 - [Bhavana](https://github.com/Bhavanak021)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
+- [Adarsh Patel](https://github.com/adarshzpatel)
 - [Bhavana Kumari](https://github.com/Bhavanak021)
