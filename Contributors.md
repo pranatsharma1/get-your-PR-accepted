@@ -6,6 +6,7 @@
 - [Shravya](https://github.com/ShravyaMallya)
 - [Ishita Karandikar](https://github.com/ishitakarandikar)
 - [Romil](https://github.com/romiljain23)
+- [Abhijeet Anand](https://github.com/Abhijeet-Anand-01)
 - [Nisha Srivastava](https://github.com/newbiens)
 - [Pulkit Bhargava](https://github.com/Pulkit007)
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
@@ -15,3 +16,4 @@
 - [Monil](https://github.com/monubucky)
 - [Manish Motwani](https://github.com/manishmotwani2002)
 - [Bhavana](https://github.com/Bhavanak021)
+- [Madhaba Patra](https://github.com/MadhabaPatra)
