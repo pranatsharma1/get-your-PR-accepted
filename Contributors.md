@@ -8,6 +8,7 @@
 - [Romil](https://github.com/romiljain23)
 - [Abhijeet Anand](https://github.com/Abhijeet-Anand-01)
 - [Nisha Srivastava](https://github.com/newbiens)
+- [Madushika Amarasekara](https://github.com/MadushikaAmarasekara)
 - [Pulkit Bhargava](https://github.com/Pulkit007)
 - [Sunaina Agarwal](https://github.com/Sunainacode)
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
