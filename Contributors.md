@@ -9,6 +9,7 @@
 - [Abhijeet Anand](https://github.com/Abhijeet-Anand-01)
 - [Nisha Srivastava](https://github.com/newbiens)
 - [Pulkit Bhargava](https://github.com/Pulkit007)
+- [Sunaina Agarwal](https://github.com/Sunainacode)
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
 - [Muskan Shaikh](https://github.com/muskanshaikh)
 - [Deeksha Mishra](https://github.com/nkmishra217)
