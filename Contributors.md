@@ -18,3 +18,4 @@
 - [Bhavana](https://github.com/Bhavanak021)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
 - [Bhavana Kumari](https://github.com/Bhavanak021)
+- [Rudraneel Dutta](https://github.com/rudraneel18)
