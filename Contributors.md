@@ -15,6 +15,8 @@
 - [Ashlesha](https://github.com/Ashlesha01)
 - [Monil](https://github.com/monubucky)
 - [Manish Motwani](https://github.com/manishmotwani2002)
+- [Tushar](https://github.com/twoshar)
 - [Bhavana](https://github.com/Bhavanak021)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
 - [Adarsh Patel](https://github.com/adarshzpatel)
+- [Bhavana Kumari](https://github.com/Bhavanak021)
